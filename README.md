@@ -1,1 +1,2 @@
 These scripts serve as the repository for the bash and R scripts used to receive and process transcriptomic data from Azenta and proteomic data from Iowa State University. To be updated as I add the scripts.
+These scripts fed figures 3 & 4 and a number of supplemental figures and tables. 
