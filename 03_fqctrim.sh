@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 3 FastQC trimmed reads
+# 3 FastQC trimmed reads. Multiqc down the road can compare the states of the two to see how they differ
 
 set -euo pipefail
 source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/00_config.sh"
